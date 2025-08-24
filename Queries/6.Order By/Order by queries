@@ -1,0 +1,4 @@
+-- Order by query by selecting booking_date in desc
+SELECT * 
+FROM BOOKING_MASTER 
+ORDER BY BOOKING_DATE DESC;
