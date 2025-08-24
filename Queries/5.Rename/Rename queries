@@ -1,0 +1,2 @@
+-- Rename column of booking_master.
+SELECT USER_NAME AS NAME, USER_EMAIL AS EMAIL FROM BOOKING_MASTER;
